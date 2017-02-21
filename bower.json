@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "angular": ">=1.2.0",
-    "fullpage.js": "~2.7.7"
+    "fullpage.js": "^2.9.0"
   },
   "keywords": [
     "fullpage",
